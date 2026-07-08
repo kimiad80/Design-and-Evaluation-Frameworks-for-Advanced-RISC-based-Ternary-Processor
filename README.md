@@ -18,7 +18,7 @@ This project provides a SystemVerilog implementation of the advanced RISC-based 
 ## Architecture
 
 <p align="center">
-  <img src="images/architecture.jpg" width="600">
+  <img src="images/architecture.jpg" width="800">
 </p>
 
 ## Repository Structure
